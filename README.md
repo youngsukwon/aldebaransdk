@@ -1,15 +1,14 @@
 Aldebaran (CPU by ETRI) SDK
 ============
 
+o. Introduction
+
 Aldebaran is 32-bit RISC CPU Core developed by ETRI, 
 Electronics and Telecommunications Research Institute. 
-
-* Introduction
-
 See aldebaran_core_intro.pdf for more detailed introduction.
 
 
-* Contact point
+o. Contact point
 
 Contact us by the following E-mail.
 
@@ -17,7 +16,8 @@ yskwon@etri.re.kr
 kjbyun@etri.re.kr
 
 
-* Copyright Notice
+
+o. Copyright Notice
 
 Copyright Processor Group, 2006-2014, All rights reserved.
 Processor Group, System-on-Chip Research Department
