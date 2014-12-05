@@ -12,9 +12,8 @@ o. Contact point
 
 Contact us by the following E-mail.
 
-yskwon@etri.re.kr
-kjbyun@etri.re.kr
-
+yskwon at etri dot re dot kr
+kjbyun at the same site
 
 
 o. Copyright Notice
@@ -31,10 +30,20 @@ SYSTEM OR TRANSLATED INTO ANY OTHER HUMAN OR COMPUTER LANGUAGE,
 IN ANY FORM, BY ANY MEANS, IN WHOLE OR IN PART, WITHOUT THE
 COMPLETE PRIOR WRITTEN PERMISSION OF ETRI.
 
-* Written Notice.
+
+o. Written Notice.
 
 The files here are based on GPL(GNU Public License) Open Sources
 adapted to Aldebaran SDK.
+This is why these files are on this github.com.
+Contact the above people if you have any questions regarding
+any of the followings. 
+
+Aldebaran Core RTL (Verilog RTL)
+Aldebaran Platform IPs
+Aldebaran Evaluation Board
+Aldebaran Full SDK
+
 
 
 -- END --
