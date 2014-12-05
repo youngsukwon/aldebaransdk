@@ -1,5 +1,4 @@
-Aldebaran (ABCore)
-SDK release for CPU Core by ETRI
+Aldebaran (ABCore), CPU Core by ETRI SDK
 ============
 
 o. Introduction
